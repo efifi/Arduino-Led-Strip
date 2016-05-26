@@ -19,7 +19,8 @@ uint8_t lastPix=0;
 uint8_t myPix=0;
 uint8_t counter=0;
 uint8_t colors[3];
-uint32_t setColor=0;
+int newline-0; // i added this for a test
+uint32_t setColor=0x00;
 boolean direction=1;
 unsigned long mark;
 
