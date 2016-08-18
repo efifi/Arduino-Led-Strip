@@ -1,5 +1,5 @@
 #include <Adafruit_NeoPixel.h>
-
+// added im client for a git hub test
 #define NUM_LEDS 123
 #define NUM_PATTERNS 25
 
